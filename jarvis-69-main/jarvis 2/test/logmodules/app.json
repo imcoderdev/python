@@ -1,0 +1,2 @@
+{"asctime": "2024-12-19 23:29:26,954", "levelname": "INFO", "message": "This is an info message", "name": "jsonLogger", "funcName": "<module>", "user_id": 123, "action": "login"}
+{"asctime": "2024-12-19 23:29:26,955", "levelname": "ERROR", "message": "This is an error message", "name": "jsonLogger", "funcName": "<module>", "user_id": 123, "error": "Invalid password"}

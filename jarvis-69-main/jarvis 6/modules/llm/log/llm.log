@@ -1,0 +1,16 @@
+{"asctime": "2024-12-20 02:02:04,039", "levelname": "INFO", "message": "Initializing LLM", "name": "Openrouter", "funcName": "__init__", "model": "nousresearch/hermes-3-llama-3.1-405b:free", "modelType": "textonly", "temperature": 0.0}
+{"asctime": "2024-12-20 02:02:04,049", "levelname": "ERROR", "message": "'OPENROUTER_API_KEY'", "name": "Openrouter", "funcName": "constructClient"}
+{"asctime": "2024-12-20 02:02:04,064", "levelname": "ERROR", "message": "'NoneType' object has no attribute 'models'", "name": "Openrouter", "funcName": "testClient"}
+{"asctime": "2024-12-20 02:02:04,061", "levelname": "INFO", "message": "Initializing LLM", "name": "Openrouter", "funcName": "__init__", "model": "nousresearch/hermes-3-llama-3.1-405b:free", "modelType": "textonly", "temperature": 0.0}
+{"asctime": "2024-12-20 02:02:04,078", "levelname": "ERROR", "message": "'OPENROUTER_API_KEY'", "name": "Openrouter", "funcName": "constructClient"}
+{"asctime": "2024-12-20 02:02:04,080", "levelname": "ERROR", "message": "'NoneType' object has no attribute 'models'", "name": "Openrouter", "funcName": "testClient"}
+{"asctime": "2024-12-20 02:02:23,077", "levelname": "ERROR", "message": "'NoneType' object has no attribute 'chat'", "name": "Openrouter", "funcName": "run"}
+{"asctime": "2024-12-20 02:02:33,403", "levelname": "ERROR", "message": "'NoneType' object has no attribute 'chat'", "name": "Openrouter", "funcName": "run"}
+{"asctime": "2024-12-20 02:02:36,434", "levelname": "ERROR", "message": "'NoneType' object has no attribute 'chat'", "name": "Openrouter", "funcName": "run"}
+{"asctime": "2024-12-20 02:02:43,860", "levelname": "ERROR", "message": "'NoneType' object has no attribute 'chat'", "name": "Openrouter", "funcName": "run"}
+{"asctime": "2024-12-20 02:05:31,125", "levelname": "INFO", "message": "Initializing LLM", "name": "Openrouter", "funcName": "__init__", "model": "nousresearch/hermes-3-llama-3.1-405b:free", "modelType": "textonly", "temperature": 0.0}
+{"asctime": "2024-12-20 02:05:32,384", "levelname": "ERROR", "message": "Model not found", "name": "Openrouter", "funcName": "testClient"}
+{"asctime": "2024-12-20 02:05:32,385", "levelname": "ERROR", "message": "Model not found in OpenAI, please add it to the code.", "name": "Openrouter", "funcName": "testClient"}
+{"asctime": "2024-12-20 02:06:43,903", "levelname": "INFO", "message": "Initializing LLM", "name": "Openrouter", "funcName": "__init__", "model": "nousresearch/hermes-3-llama-3.1-405b:free", "modelType": "textonly", "temperature": 0.0}
+{"asctime": "2024-12-20 02:06:44,680", "levelname": "ERROR", "message": "Model not found", "name": "Openrouter", "funcName": "testClient"}
+{"asctime": "2024-12-20 02:06:44,682", "levelname": "ERROR", "message": "Model not found in OpenAI, please add it to the code.", "name": "Openrouter", "funcName": "testClient"}
