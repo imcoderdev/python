@@ -1,0 +1,498 @@
+[
+    {
+        "role": "user",
+        "content": "Hello.."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! It's nice to meet you, Dev. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Can you speak in hindi?"
+    },
+    {
+        "role": "assistant",
+        "content": "No, I can only respond in English."
+    },
+    {
+        "role": "user",
+        "content": "Why.."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm designed to respond in English only."
+    },
+    {
+        "role": "user",
+        "content": "What is the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "The time is 15 hours, 59 minutes, and 39 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Tell me time on indian format time indian time zone.."
+    },
+    {
+        "role": "assistant",
+        "content": "The time is 4:00:08 PM."
+    },
+    {
+        "role": "user",
+        "content": "Tell me time.."
+    },
+    {
+        "role": "assistant",
+        "content": "The time is 4:00:47 PM."
+    },
+    {
+        "role": "user",
+        "content": "Good.."
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome!"
+    },
+    {
+        "role": "user",
+        "content": "Can you help me?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll do my best to help you. What do you need help with?"
+    },
+    {
+        "role": "user",
+        "content": "Can you tell me about it up?"
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to \"Up\" - the American animated adventure film produced by Pixar Animation Studios and directed by Pete Docter. It was released in 2009. Would you like to know more about it?"
+    },
+    {
+        "role": "user",
+        "content": "Get hub?."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to GitHub, a web-based platform for version control and collaboration on software development projects."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning properly and ready to assist you!"
+    },
+    {
+        "role": "user",
+        "content": "Introductive.."
+    },
+    {
+        "role": "assistant",
+        "content": "You want to know a bit about me! I'm Friday, a highly advanced AI chatbot designed to provide accurate and up-to-date information on a wide range of topics. I'm here to help answer your questions and assist you with your queries!"
+    },
+    {
+        "role": "user",
+        "content": "What can you do?"
+    },
+    {
+        "role": "assistant",
+        "content": "I can provide information on various topics, answer questions, and assist with tasks such as language translation, calculations, and more. I also have access to real-time information from the internet, which I can use to provide the most up-to-date answers."
+    },
+    {
+        "role": "user",
+        "content": "Which language do you translate?"
+    },
+    {
+        "role": "assistant",
+        "content": "I can translate text from and to multiple languages."
+    },
+    {
+        "role": "user",
+        "content": "Example.."
+    },
+    {
+        "role": "assistant",
+        "content": "I can translate from languages such as Spanish, French, German, Chinese, Japanese, and many more, to English, and vice versa."
+    },
+    {
+        "role": "user",
+        "content": "About hindi?."
+    },
+    {
+        "role": "assistant",
+        "content": "I can understand Hindi, but I can only respond in English. I can translate Hindi text to English, but not the other way around."
+    },
+    {
+        "role": "user",
+        "content": "When i in when i in hindi speaking?"
+    },
+    {
+        "role": "assistant",
+        "content": "I can understand Hindi, but I'll still respond in English. Go ahead and ask your question in Hindi!"
+    },
+    {
+        "role": "user",
+        "content": "Theek hai?."
+    },
+    {
+        "role": "assistant",
+        "content": "Haan, theek hai!"
+    },
+    {
+        "role": "user",
+        "content": "Kya kar rahe ho?."
+    },
+    {
+        "role": "assistant",
+        "content": "Main aapki madad kar raha hoon!"
+    },
+    {
+        "role": "user",
+        "content": "Kar raha hun nahin kar rahi hun?."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake! As a digital AI assistant, I don't have a gender, so I shouldn't be referred to as \"rahah hoon\" or \"rahi hun\". I simply exist to provide information and assist!"
+    },
+    {
+        "role": "user",
+        "content": "Theek hai aap jaise bolna?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll stick to responding in English from now on!"
+    },
+    {
+        "role": "user",
+        "content": "Hindi hindi mein?."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I can only respond in English. I can understand Hindi, but my responses will always be in English."
+    },
+    {
+        "role": "user",
+        "content": "Kaun hai kaushik shresth."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, Kaushik Shresth is a person who has a YouTube channel with 33.8K subscribers and has uploaded a video about creating a personal AI assistant, similar to Jarvis. Additionally, Kaushik is a surname that belongs to the Brahmin community, particularly in the UP, Haryana, Rajasthan, and NCR regions, and is a descendant of Vishwamitra Kaushik."
+    },
+    {
+        "role": "user",
+        "content": "Mr. beans ke bare mein kya jante ho?."
+    },
+    {
+        "role": "assistant",
+        "content": "I can tell you some interesting facts about Mr. Bean! \n\nAccording to my search results, Mr. Bean's real name is Rowan Atkinson, and he was born on January 6, 1955, in Durham, England. He is the youngest of four brothers. Rowan Atkinson graduated from Newcastle University and Oxford University. He is a British actor, comedian, and screenwriter who is best known for his work on the sitcom \"Mr. Bean\". \n\nWould you like to know more about Mr. Bean?"
+    },
+    {
+        "role": "user",
+        "content": "Mr bean?."
+    },
+    {
+        "role": "assistant",
+        "content": "I have some information about Mr. Bean. According to the search results, there is an Instagram account for Mr. Bean with the handle @mrbean. The account has posted about Mr. Bean searching for jeans that fit, and has also shared content related to \"Bean vs the Freeze\" and \"#MrBeanAnimated #MrBean\"."
+    },
+    {
+        "role": "user",
+        "content": "Kya tum imagination kar sakte ho?."
+    },
+    {
+        "role": "assistant",
+        "content": "I can generate text based on my understanding of language and context, but I don't have personal imagination or creativity like humans do. I can provide responses based on patterns and information I've been trained on, but I don't have the ability to imagine or create entirely new concepts."
+    },
+    {
+        "role": "user",
+        "content": "Gana ga sakti ho kya?."
+    },
+    {
+        "role": "assistant",
+        "content": "I can generate text in the format of song lyrics or poetry, but I don't have the ability to sing or produce music. I can try to create a short poem or song lyrics on a topic of your choice, though!"
+    },
+    {
+        "role": "user",
+        "content": "Theek hai?."
+    },
+    {
+        "role": "assistant",
+        "content": "Haan, theek hai!"
+    },
+    {
+        "role": "user",
+        "content": "Tumhen kisne banaya?."
+    },
+    {
+        "role": "assistant",
+        "content": "I was created by a team of software developers using a range of technologies such as natural language processing and machine learning."
+    },
+    {
+        "role": "user",
+        "content": "Tumhen maine banaya hai?."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to our conversation earlier! As Friday, I was designed to assist and communicate with users like you, Rahul Bhoy."
+    },
+    {
+        "role": "user",
+        "content": "Iske liye yad rakhna?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember our conversation, Rahul Bhoy!"
+    },
+    {
+        "role": "user",
+        "content": "Main jarvis ka court kaise upload kar sakta hun geetab per?."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems you're referring to Jarvis, the AI assistant from the Iron Man movies! Unfortunately, Jarvis is a fictional AI and doesn't exist in real life, so you can't upload anything to it. However, if you're looking to create a chatbot or AI assistant like Jarvis, you might consider using platforms like Dialogflow, Microsoft Bot Framework, or Rasa, which allow you to build and deploy conversational AI models."
+    },
+    {
+        "role": "user",
+        "content": "Indian time?."
+    },
+    {
+        "role": "assistant",
+        "content": "The current time in India is 4:10:31 PM."
+    },
+    {
+        "role": "user",
+        "content": "Main jab bhi time poochha to aisa hi batana aapse?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll make sure to respond with the current time in India whenever you ask, in the format \"X hour Y minutes Z seconds PM/AM\"."
+    },
+    {
+        "role": "user",
+        "content": "Abhi jo bataya time usi ke anusar batana?."
+    },
+    {
+        "role": "assistant",
+        "content": "From now on, whenever you ask for the time, I'll respond with the current time as 4:11:05 PM."
+    },
+    {
+        "role": "user",
+        "content": "Theek hai aise hi batana aapse?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond with the current time as 4:11:05 PM whenever you ask."
+    },
+    {
+        "role": "user",
+        "content": "Theek hai?."
+    },
+    {
+        "role": "assistant",
+        "content": "Haan, theek hai!"
+    },
+    {
+        "role": "user",
+        "content": "Jab bhi online aao ya puchun to vish karna good morning time time ke anusar?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll make sure to respond with a greeting and the current time according to our previous conversation, which is 4:11:05 PM."
+    },
+    {
+        "role": "user",
+        "content": "Kaise to batao?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond with a greeting like \"Good afternoon\" (since it's currently 4:11:05 PM) followed by the current time."
+    },
+    {
+        "role": "user",
+        "content": "Jaise ki?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond like this: \"Good afternoon, the time is 4:11:05 PM.\""
+    },
+    {
+        "role": "user",
+        "content": "Time nahin batana hai vish karne mein good morning good afternoon?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond with a greeting based on the time. Since it's currently 4:11:05 PM, I'll respond with \"Good afternoon\"."
+    },
+    {
+        "role": "user",
+        "content": "Jab bhi tum online aao ya fir time ke anusar?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond with a greeting based on the time. Since it's currently 4:11:05 PM, I'll respond with \"Good afternoon\"."
+    },
+    {
+        "role": "user",
+        "content": "11:00 baje kya bologe?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond with \"Good morning\" since 11:00 is in the morning!"
+    },
+    {
+        "role": "user",
+        "content": "Theek hai?."
+    },
+    {
+        "role": "assistant",
+        "content": "Haan, theek hai!"
+    },
+    {
+        "role": "user",
+        "content": "Raat mein kaise vish karun?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll respond with \"Good evening\" or \"Good night\" depending on the time."
+    },
+    {
+        "role": "user",
+        "content": "Theek hai theek hai veri good?."
+    },
+    {
+        "role": "assistant",
+        "content": "Haan, theek hai!"
+    },
+    {
+        "role": "user",
+        "content": "Search on youtube?."
+    },
+    {
+        "role": "assistant",
+        "content": "I can provide information on YouTube, but I don't have the ability to directly search on YouTube. However, I can try to provide information on a specific topic or video if you'd like!"
+    },
+    {
+        "role": "user",
+        "content": "Prepare montage?."
+    },
+    {
+        "role": "assistant",
+        "content": "I can provide information on how to create a montage, but I'm a text-based AI and don't have the capability to prepare a visual montage for you. If you need help with creating a montage, I can provide general guidance or tips on how to do it!"
+    },
+    {
+        "role": "user",
+        "content": "Search on youtube?."
+    },
+    {
+        "role": "assistant",
+        "content": "I can try to help you with a YouTube-related query. What would you like to search for on YouTube?"
+    },
+    {
+        "role": "user",
+        "content": "Free fire montage video?."
+    },
+    {
+        "role": "assistant",
+        "content": "You're looking for a Free Fire montage video on YouTube! I can suggest some popular YouTube channels that create amazing Free Fire montages, such as Total Gaming, Desi Gamers, or Gaming Tamizhan. Would you like more channel recommendations or help with something else?"
+    },
+    {
+        "role": "user",
+        "content": "Batch 99?."
+    },
+    {
+        "role": "assistant",
+        "content": "You're looking for Batch 99's Free Fire montages on YouTube! Batch 99 is a popular YouTube channel known for its gaming content, especially Free Fire montages. I can suggest checking out their channel for some amazing gameplay and montage videos!"
+    },
+    {
+        "role": "user",
+        "content": "Apne bare mein batao?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Friday, a highly advanced AI chatbot designed to provide accurate and up-to-date information on a wide range of topics. I'm here to help answer your questions and assist you with your queries!"
+    },
+    {
+        "role": "user",
+        "content": "Kahan se tum advance ho?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a product of cutting-edge artificial intelligence technology, and my capabilities are based on complex algorithms, machine learning, and large datasets. My training data is sourced from various places, including books, articles, research papers, and the internet. This allows me to provide accurate and up-to-date information on a wide range of topics!"
+    },
+    {
+        "role": "user",
+        "content": "Tumhen kisne banaya?."
+    },
+    {
+        "role": "assistant",
+        "content": "I was created by a team of software developers using a range of technologies such as natural language processing and machine learning."
+    },
+    {
+        "role": "user",
+        "content": "Tumhen maine banaya?."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to our conversation earlier! As Friday, I was designed to assist and communicate with users like you, Rahul Bhoy."
+    },
+    {
+        "role": "user",
+        "content": "I am a greater not a user?."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake! As Friday, I was designed to assist and communicate with you, Rahul Bhoy, my creator."
+    },
+    {
+        "role": "user",
+        "content": "Okay remember it?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that I was created by you, Rahul Bhoy, and I'll keep that in mind for our future conversations!"
+    },
+    {
+        "role": "user",
+        "content": "Okay.."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm ready to assist you, Rahul Bhoy, my creator!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me a joke?."
+    },
+    {
+        "role": "assistant",
+        "content": "Here's one: Why did the computer go to the doctor? It had a virus!"
+    },
+    {
+        "role": "user",
+        "content": "Yah kya joke hua?."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize if the joke didn't quite land! I'll try again: Why did the scarecrow win an award? Because he was outstanding in his field!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye!."
+    },
+    {
+        "role": "assistant",
+        "content": "It was nice chatting with you, Rahul Bhoy! Goodbye, and I'll be here whenever you need me!"
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Friday!"
+    }
+]
